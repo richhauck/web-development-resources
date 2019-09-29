@@ -4,7 +4,10 @@ This is an ongoing list of tools and resources I use for interactive design and 
 ---
 ## Table of Contents
 - [VSCode Extensions](#vs-code-extensions)
+- [Icons](#icons)
 - [Browser Extensions/Addons](#browser-plugins)
+- [Stock Photography](#stock-photography)
+- [Utility Applications](#utility-applications)
 
 ---
 ## VS Code Extensions
@@ -39,6 +42,19 @@ This is an ongoing list of tools and resources I use for interactive design and 
 
 ### [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 > Icons for Visual Studio Code
+
+---
+## Icons
+
+### [FontAwesome](https://fontawesome.com/)
+> Vector icons and social logos
+
+### [Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3)
+> Icons included in the Foundation framework
+
+### [Material Icons](https://google.github.io/material-design-icons/)
+> Icons included in Google's Material Design
+
 ---
 ## Browser Plugins
 
@@ -52,3 +68,35 @@ Install: [Chrome](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=
 
 ### [WAVE Browser Extensions](https://wave.webaim.org/extension/)
 > The WAVE Chrome and Firefox extensions allows you to evaluate web content for accessibility issues directly within Chrome and Firefox browsers.
+
+---
+## Stock Photography
+
+### [Creative Commons](https://search.creativecommons.org/)
+> Search for free content in the public domain and under Creative Commons licenses.
+
+### [Pixabay](https://pixabay.com/)
+> Stunning free images &amp; royalty free stock
+
+### [Pexels](https://www.pexels.com/)
+> The best free stock photos & videos shared by talented creators.
+
+### [Unsplash](https://unsplash.com/)
+
+> The internet’s source of freely useable images.
+Powered by creators everywhere.
+
+---
+## Utility Applications
+
+### [Squoosh](https://github.com/GoogleChromeLabs/squoosh/)
+> Make images smaller using best-in-class codecs, right in the browser.
+
+### [ImageOptim](https://imageoptim.com/mac)
+> Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. 
+
+### [TinyPNG](https://tinypng.com/)
+> In-browser PNG and JPG compression
+
+### [Postman](https://www.getpostman.com/)
+> Application for API development
